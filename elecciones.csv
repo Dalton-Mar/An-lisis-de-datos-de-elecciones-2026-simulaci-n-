@@ -1,0 +1,201 @@
+mesa_id,departamento,municipio,zona,potencial_votantes,votos_candidato_a,votos_candidato_b,votos_candidato_c,votos_candidato_d,votos_candidato_e,votos_blanco,votos_nulos,total_votos_mesa,hora_cierre,incidentes,tipo_incidente,observadores
+M001,Antioquia,Medellín,Urbana,450,95,78,102,45,38,8,12,378,17:00,No,,3
+M002,Antioquia,Medellín,Urbana,480,88,92,110,52,41,9,10,402,17:15,No,,4
+M003,Antioquia,Envigado,Urbana,420,72,68,95,48,35,7,8,333,17:00,No,,3
+M004,Antioquia,Bello,Urbana,510,98,105,88,62,45,11,14,423,18:00,Sí,Retraso en apertura,2
+M005,Antioquia,Itagüí,Urbana,440,81,86,93,51,39,8,9,367,17:30,No,,3
+M006,Bogotá,Bogotá,Urbana,500,92,85,115,58,48,10,13,421,17:00,No,,5
+M007,Bogotá,Bogotá,Urbana,520,98,88,122,61,52,12,11,444,17:00,No,,5
+M008,Bogotá,Bogotá,Urbana,490,87,82,118,55,45,9,10,406,17:15,No,,4
+M009,Bogotá,Bogotá,Urbana,510,95,90,125,63,50,11,12,446,17:30,No,,5
+M010,Bogotá,Bogotá,Urbana,480,85,79,108,52,43,8,9,384,17:00,No,,4
+M011,Valle del Cauca,Cali,Urbana,470,89,94,98,56,44,10,11,402,17:00,No,,3
+M012,Valle del Cauca,Cali,Urbana,460,86,91,95,53,42,9,10,386,17:15,No,,3
+M013,Valle del Cauca,Palmira,Urbana,380,68,72,78,42,35,6,8,309,17:00,No,,2
+M014,Valle del Cauca,Buenaventura,Urbana,350,62,58,68,38,32,7,9,274,17:30,Sí,Falta de material electoral,2
+M015,Valle del Cauca,Tuluá,Urbana,390,70,75,82,45,37,7,8,324,17:00,No,,2
+M016,Atlántico,Barranquilla,Urbana,440,96,88,75,52,41,9,11,372,17:00,No,,3
+M017,Atlántico,Barranquilla,Urbana,450,98,91,78,55,43,10,12,387,17:15,No,,3
+M018,Atlántico,Soledad,Urbana,410,85,82,70,48,38,8,9,340,17:00,No,,2
+M019,Atlántico,Malambo,Urbana,320,65,62,58,38,30,6,7,266,17:30,No,,2
+M020,Atlántico,Sabanalarga,Rural,280,52,58,48,32,28,5,6,229,18:00,No,,1
+M021,Santander,Bucaramanga,Urbana,430,82,95,88,51,42,8,10,376,17:00,No,,3
+M022,Santander,Bucaramanga,Urbana,440,85,98,91,53,44,9,11,391,17:15,No,,3
+M023,Santander,Floridablanca,Urbana,400,75,88,82,48,39,7,9,348,17:00,No,,2
+M024,Santander,Girón,Urbana,380,70,82,75,45,37,7,8,324,17:30,No,,2
+M025,Santander,Piedecuesta,Rural,290,52,65,58,35,28,5,7,250,18:00,No,,1
+M026,Bolívar,Cartagena,Urbana,460,92,82,72,55,45,10,12,368,17:00,No,,3
+M027,Bolívar,Cartagena,Urbana,470,95,85,75,58,47,11,13,384,17:15,No,,3
+M028,Bolívar,Magangué,Rural,310,58,55,52,38,32,6,8,249,18:00,Sí,Amenazas,1
+M029,Bolívar,Turbaco,Urbana,350,68,65,62,42,35,7,9,288,17:30,No,,2
+M030,Bolívar,Arjona,Rural,270,48,52,45,32,28,5,6,216,18:00,No,,1
+M031,Cundinamarca,Soacha,Urbana,490,88,82,105,58,48,10,11,402,17:00,No,,3
+M032,Cundinamarca,Facatativá,Urbana,360,65,62,78,42,35,7,8,297,17:15,No,,2
+M033,Cundinamarca,Zipaquirá,Urbana,380,68,65,82,45,38,7,9,314,17:00,No,,2
+M034,Cundinamarca,Chía,Urbana,400,72,68,88,48,40,8,9,333,17:30,No,,2
+M035,Cundinamarca,Fusagasugá,Urbana,370,66,63,80,43,36,7,8,303,17:00,No,,2
+M036,Norte de Santander,Cúcuta,Urbana,420,78,92,72,48,38,8,10,346,17:00,Sí,Congestión,2
+M037,Norte de Santander,Cúcuta,Urbana,430,81,95,75,51,40,9,11,362,17:15,No,,2
+M038,Norte de Santander,Villa del Rosario,Urbana,340,62,72,58,40,32,6,8,278,17:30,No,,2
+M039,Norte de Santander,Los Patios,Urbana,310,56,68,52,36,29,5,7,253,17:00,No,,1
+M040,Norte de Santander,Ocaña,Rural,280,48,62,48,32,26,5,6,227,18:00,No,,1
+M041,Tolima,Ibagué,Urbana,410,75,82,88,48,39,8,10,350,17:00,No,,2
+M042,Tolima,Ibagué,Urbana,420,78,85,91,51,41,9,11,366,17:15,No,,2
+M043,Tolima,Espinal,Urbana,330,60,65,70,38,31,6,8,278,17:30,No,,2
+M044,Tolima,Melgar,Rural,270,48,55,58,32,26,5,6,230,18:00,No,,1
+M045,Tolima,Honda,Urbana,310,56,62,65,36,29,6,7,261,17:00,No,,1
+M046,Risaralda,Pereira,Urbana,430,80,88,95,52,42,9,10,376,17:00,No,,3
+M047,Risaralda,Pereira,Urbana,440,83,91,98,55,44,10,11,392,17:15,No,,3
+M048,Risaralda,Dosquebradas,Urbana,370,68,75,82,45,37,7,9,323,17:30,No,,2
+M049,Risaralda,La Virginia,Urbana,310,56,62,68,38,31,6,7,268,17:00,No,,2
+M050,Risaralda,Santa Rosa,Rural,260,45,52,58,32,26,5,6,224,18:00,No,,1
+M051,Caldas,Manizales,Urbana,400,72,85,88,48,38,8,9,348,17:00,No,,2
+M052,Caldas,Manizales,Urbana,410,75,88,91,51,40,9,10,364,17:15,No,,2
+M053,Caldas,Villamaría,Urbana,320,58,68,72,40,32,6,8,284,17:30,No,,2
+M054,Caldas,Chinchiná,Rural,280,48,58,62,35,28,5,6,242,18:00,No,,1
+M055,Caldas,La Dorada,Urbana,340,62,72,75,42,34,7,8,300,17:00,No,,2
+M056,Huila,Neiva,Urbana,390,70,78,82,45,36,7,9,327,17:00,No,,2
+M057,Huila,Neiva,Urbana,400,73,81,85,48,38,8,10,343,17:15,No,,2
+M058,Huila,Pitalito,Urbana,310,56,62,68,38,31,6,7,268,17:30,No,,2
+M059,Huila,Garzón,Rural,270,48,55,58,32,26,5,6,230,18:00,No,,1
+M060,Huila,La Plata,Rural,260,45,52,55,30,25,5,6,218,18:00,No,,1
+M061,Quindío,Armenia,Urbana,380,68,75,85,45,36,7,8,324,17:00,No,,2
+M062,Quindío,Armenia,Urbana,390,71,78,88,48,38,8,9,340,17:15,No,,2
+M063,Quindío,Calarcá,Urbana,310,56,62,70,38,31,6,7,270,17:30,No,,2
+M064,Quindío,Montenegro,Rural,260,45,52,58,32,26,5,6,224,18:00,No,,1
+M065,Quindío,La Tebaida,Urbana,290,52,58,65,35,28,6,7,251,17:00,No,,1
+M066,Meta,Villavicencio,Urbana,410,75,72,82,52,42,8,10,341,17:00,No,,2
+M067,Meta,Villavicencio,Urbana,420,78,75,85,55,44,9,11,357,17:15,No,,2
+M068,Meta,Acacías,Urbana,320,58,55,65,42,34,6,8,268,17:30,No,,2
+M069,Meta,Granada,Rural,280,48,45,55,38,31,5,7,229,18:00,No,,1
+M070,Meta,San Martín,Rural,270,46,43,52,36,29,5,6,217,18:00,No,,1
+M071,Nariño,Pasto,Urbana,390,72,82,68,48,38,8,9,325,17:00,No,,2
+M072,Nariño,Pasto,Urbana,400,75,85,71,51,40,9,10,341,17:15,No,,2
+M073,Nariño,Ipiales,Urbana,320,58,68,55,40,32,6,8,267,17:30,Sí,Problemas de orden público,1
+M074,Nariño,Tumaco,Urbana,310,55,62,52,38,31,6,7,251,18:00,Sí,Amenazas,1
+M075,Nariño,Túquerres,Rural,260,45,55,48,32,26,5,6,217,18:00,No,,1
+M076,Magdalena,Santa Marta,Urbana,400,82,72,65,48,38,8,10,323,17:00,No,,2
+M077,Magdalena,Santa Marta,Urbana,410,85,75,68,51,40,9,11,339,17:15,No,,2
+M078,Magdalena,Ciénaga,Urbana,310,62,58,52,38,31,6,8,255,17:30,No,,2
+M079,Magdalena,Fundación,Rural,280,52,48,45,35,28,5,7,220,18:00,No,,1
+M080,Magdalena,Plato,Rural,270,48,45,42,32,26,5,6,204,18:00,No,,1
+M081,Córdoba,Montería,Urbana,390,78,68,62,48,38,8,9,311,17:00,No,,2
+M082,Córdoba,Montería,Urbana,400,81,71,65,51,40,9,10,327,17:15,No,,2
+M083,Córdoba,Cereté,Urbana,310,62,55,52,40,32,6,8,255,17:30,No,,2
+M084,Córdoba,Lorica,Rural,280,52,48,45,35,28,5,7,220,18:00,No,,1
+M085,Córdoba,Sahagún,Urbana,300,58,52,48,38,31,6,7,240,17:00,No,,1
+M086,Cesar,Valledupar,Urbana,380,75,65,58,48,38,7,9,300,17:00,No,,2
+M087,Cesar,Valledupar,Urbana,390,78,68,61,51,40,8,10,316,17:15,No,,2
+M088,Cesar,Aguachica,Urbana,310,62,55,48,40,32,6,8,251,17:30,No,,2
+M089,Cesar,Bosconia,Rural,270,52,48,42,35,28,5,6,216,18:00,No,,1
+M090,Cesar,Valledupar,Rural,280,55,51,45,38,31,6,7,233,18:00,No,,1
+M091,Sucre,Sincelejo,Urbana,370,72,62,55,45,36,7,8,285,17:00,No,,2
+M092,Sucre,Sincelejo,Urbana,380,75,65,58,48,38,8,9,301,17:15,No,,2
+M093,Sucre,Corozal,Urbana,290,58,52,45,38,31,6,7,237,17:30,No,,1
+M094,Sucre,Sampués,Rural,260,48,45,38,32,26,5,6,200,18:00,No,,1
+M095,Sucre,Sincé,Rural,250,45,42,35,30,25,5,5,187,18:00,No,,1
+M096,La Guajira,Riohacha,Urbana,360,68,58,52,42,35,7,8,270,17:00,No,,2
+M097,La Guajira,Riohacha,Urbana,370,71,61,55,45,37,8,9,286,17:15,No,,2
+M098,La Guajira,Maicao,Urbana,310,58,52,48,38,32,6,7,241,17:30,Sí,Falta de energía,1
+M099,La Guajira,Uribia,Rural,240,42,38,35,28,24,4,5,176,18:30,Sí,Problemas logísticos,1
+M100,La Guajira,Manaure,Rural,250,45,41,38,30,26,5,5,190,18:00,No,,1
+M101,Boyacá,Tunja,Urbana,380,68,78,82,45,36,7,9,325,17:00,No,,2
+M102,Boyacá,Tunja,Urbana,390,71,81,85,48,38,8,10,341,17:15,No,,2
+M103,Boyacá,Duitama,Urbana,320,58,68,72,40,32,6,8,284,17:30,No,,2
+M104,Boyacá,Sogamoso,Urbana,330,60,70,75,42,34,7,8,296,17:00,No,,2
+M105,Boyacá,Chiquinquirá,Rural,270,48,58,62,35,28,5,6,242,18:00,No,,1
+M106,Cauca,Popayán,Urbana,370,65,72,75,42,35,7,8,304,17:00,No,,2
+M107,Cauca,Popayán,Urbana,380,68,75,78,45,37,8,9,320,17:15,No,,2
+M108,Cauca,Santander de Quilichao,Urbana,290,52,58,62,35,29,6,7,249,17:30,No,,1
+M109,Cauca,Puerto Tejada,Rural,260,45,52,55,32,26,5,6,221,18:00,No,,1
+M110,Cauca,Piendamó,Rural,250,42,48,52,30,25,5,5,207,18:00,No,,1
+M111,Casanare,Yopal,Urbana,350,62,58,68,42,35,7,8,280,17:00,No,,2
+M112,Casanare,Yopal,Urbana,360,65,61,71,45,37,8,9,296,17:15,No,,2
+M113,Casanare,Aguazul,Rural,270,48,45,55,35,29,5,7,224,18:00,No,,1
+M114,Casanare,Villanueva,Rural,260,45,42,52,32,27,5,6,209,18:00,No,,1
+M115,Casanare,Monterrey,Rural,250,42,40,48,30,25,4,6,195,18:00,No,,1
+M116,Arauca,Arauca,Urbana,330,58,52,62,38,32,6,7,255,17:00,Sí,Retrasos,1
+M117,Arauca,Arauca,Urbana,340,61,55,65,41,34,7,8,271,17:15,No,,1
+M118,Arauca,Tame,Rural,260,45,42,52,32,27,5,6,209,18:00,No,,1
+M119,Arauca,Saravena,Rural,270,48,45,55,35,29,6,7,225,18:00,No,,1
+M120,Arauca,Fortul,Rural,240,40,38,48,28,24,4,5,187,18:30,No,,1
+M121,Putumayo,Mocoa,Urbana,310,55,52,62,38,32,6,7,252,17:00,No,,1
+M122,Putumayo,Mocoa,Urbana,320,58,55,65,41,34,7,8,268,17:15,No,,1
+M123,Putumayo,Puerto Asís,Rural,260,45,43,52,32,27,5,6,210,18:00,Sí,Amenazas,1
+M124,Putumayo,Orito,Rural,250,42,40,48,30,25,5,5,195,18:00,No,,1
+M125,Putumayo,Valle del Guamuez,Rural,240,38,36,45,28,24,4,5,180,18:30,No,,1
+M126,Caquetá,Florencia,Urbana,340,60,56,68,42,35,7,8,276,17:00,No,,1
+M127,Caquetá,Florencia,Urbana,350,63,59,71,45,37,8,9,292,17:15,No,,1
+M128,Caquetá,San Vicente del Caguán,Rural,270,48,45,58,35,30,6,7,229,18:00,No,,1
+M129,Caquetá,Puerto Rico,Rural,260,45,42,55,32,28,5,6,213,18:00,No,,1
+M130,Caquetá,El Doncello,Rural,250,42,40,52,30,26,5,5,200,18:00,No,,1
+M131,Chocó,Quibdó,Urbana,310,58,48,55,38,35,7,8,249,17:30,Sí,Problemas logísticos,1
+M132,Chocó,Quibdó,Urbana,320,61,51,58,41,37,8,9,265,17:45,No,,1
+M133,Chocó,Istmina,Rural,250,45,38,45,32,29,5,6,200,18:30,No,,1
+M134,Chocó,Condoto,Rural,240,42,36,42,30,27,5,5,187,18:30,No,,1
+M135,Chocó,Acandí,Rural,230,38,34,38,28,25,4,5,172,18:30,Sí,Acceso difícil,1
+M136,Guaviare,San José del Guaviare,Urbana,290,52,48,58,35,32,6,7,238,17:30,No,,1
+M137,Guaviare,San José del Guaviare,Urbana,300,55,51,61,38,34,7,8,254,17:45,No,,1
+M138,Guaviare,Calamar,Rural,240,42,38,48,30,28,5,6,197,18:30,No,,1
+M139,Guaviare,El Retorno,Rural,230,38,36,45,28,26,4,5,182,18:30,No,,1
+M140,Guaviare,Miraflores,Rural,220,35,34,42,26,24,4,5,170,18:30,No,,0
+M141,Vaupés,Mitú,Urbana,260,45,42,52,32,30,5,6,212,18:00,No,,1
+M142,Vaupés,Mitú,Urbana,270,48,45,55,35,32,6,7,228,18:15,No,,1
+M143,Vaupés,Carurú,Rural,210,36,34,42,26,25,4,4,171,19:00,Sí,Comunicación deficiente,0
+M144,Vaupés,Taraira,Rural,200,32,31,38,24,23,3,4,155,19:00,No,,0
+M145,Vaupés,Papunaua,Rural,190,28,27,35,22,21,3,3,139,19:00,No,,0
+M146,Vichada,Puerto Carreño,Urbana,280,48,45,58,35,32,6,7,231,18:00,No,,1
+M147,Vichada,Puerto Carreño,Urbana,290,51,48,61,38,34,7,8,247,18:15,No,,1
+M148,Vichada,La Primavera,Rural,230,38,36,48,28,27,5,5,187,18:30,No,,1
+M149,Vichada,Cumaribo,Rural,220,35,34,45,26,25,4,5,174,18:30,No,,0
+M150,Vichada,Santa Rosalía,Rural,210,32,31,42,24,23,4,4,160,19:00,No,,0
+M151,Guainía,Inírida,Urbana,270,46,43,55,34,32,6,7,223,18:00,No,,1
+M152,Guainía,Inírida,Urbana,280,49,46,58,37,34,7,8,239,18:15,No,,1
+M153,Guainía,Barranco Minas,Rural,220,36,34,45,28,27,5,5,180,18:30,No,,0
+M154,Guainía,Mapiripana,Rural,210,33,32,42,26,25,4,4,166,18:30,No,,0
+M155,Guainía,San Felipe,Rural,200,30,29,38,24,23,4,4,152,19:00,No,,0
+M156,Amazonas,Leticia,Urbana,300,52,49,62,38,36,7,8,252,18:00,No,,1
+M157,Amazonas,Leticia,Urbana,310,55,52,65,41,38,8,9,268,18:15,No,,1
+M158,Amazonas,Puerto Nariño,Rural,240,40,38,52,32,30,6,6,204,18:30,No,,1
+M159,Amazonas,La Pedrera,Rural,230,37,36,48,30,28,5,5,189,18:30,No,,0
+M160,Amazonas,El Encanto,Rural,220,34,33,45,28,26,5,5,176,19:00,No,,0
+M161,Antioquia,Rionegro,Urbana,400,72,68,90,48,39,8,9,334,17:00,No,,2
+M162,Antioquia,Apartadó,Urbana,340,62,72,68,42,35,7,8,294,17:30,Sí,Congestión,2
+M163,Antioquia,Turbo,Rural,290,52,62,55,36,30,6,7,248,18:00,No,,1
+M164,Antioquia,Caucasia,Urbana,320,58,68,62,40,33,6,8,275,17:30,No,,2
+M165,Antioquia,Yarumal,Rural,270,48,58,52,34,28,5,6,231,18:00,No,,1
+M166,Valle del Cauca,Jamundí,Urbana,350,64,70,75,42,36,7,8,302,17:15,No,,2
+M167,Valle del Cauca,Yumbo,Urbana,360,66,72,78,44,38,7,9,314,17:00,No,,2
+M168,Valle del Cauca,Cartago,Urbana,330,60,66,72,40,34,6,8,286,17:30,No,,2
+M169,Valle del Cauca,Buga,Urbana,310,56,62,68,38,32,6,7,269,17:00,No,,2
+M170,Valle del Cauca,Sevilla,Rural,260,46,52,58,32,28,5,6,227,18:00,No,,1
+M171,Santander,Barrancabermeja,Urbana,390,72,85,78,48,40,8,10,341,17:00,No,,2
+M172,Santander,San Gil,Urbana,310,58,68,65,40,33,6,8,278,17:30,No,,2
+M173,Santander,Socorro,Rural,270,48,58,55,34,29,5,7,236,18:00,No,,1
+M174,Santander,Málaga,Rural,260,46,55,52,32,27,5,6,223,18:00,No,,1
+M175,Santander,Barbosa,Urbana,300,56,65,62,38,32,6,7,266,17:15,No,,2
+M176,Cundinamarca,Girardot,Urbana,350,64,62,78,44,37,7,8,300,17:00,No,,2
+M177,Cundinamarca,Madrid,Urbana,330,60,58,75,42,35,7,8,285,17:15,No,,2
+M178,Cundinamarca,Mosquera,Urbana,380,68,66,85,48,40,8,9,324,17:00,No,,2
+M179,Cundinamarca,Funza,Urbana,340,62,60,78,44,36,7,8,295,17:30,No,,2
+M180,Cundinamarca,Villeta,Rural,280,50,48,65,36,30,6,7,242,18:00,No,,1
+M181,Bolívar,El Carmen de Bolívar,Rural,290,56,52,55,38,33,6,7,247,18:00,No,,1
+M182,Bolívar,Mompós,Rural,270,52,48,52,35,30,5,6,228,18:00,No,,1
+M183,Bolívar,San Jacinto,Rural,260,48,46,48,32,28,5,6,213,18:00,No,,1
+M184,Bolívar,María La Baja,Rural,250,46,44,45,30,26,5,5,201,18:00,No,,1
+M185,Bolívar,Carmen de Bolívar,Rural,280,54,50,52,36,32,6,7,237,18:00,No,,1
+M186,Tolima,Mariquita,Urbana,300,56,62,68,38,32,6,7,269,17:30,No,,1
+M187,Tolima,Líbano,Urbana,290,54,60,65,36,30,6,7,258,17:30,No,,1
+M188,Tolima,Chaparral,Rural,270,50,56,62,34,29,5,6,242,18:00,No,,1
+M189,Tolima,Purificación,Rural,260,48,54,58,32,27,5,6,230,18:00,No,,1
+M190,Tolima,Cajamarca,Rural,250,46,52,55,30,26,5,5,219,18:00,No,,1
+M191,Caldas,Riosucio,Rural,270,48,58,62,34,29,5,6,242,18:00,No,,1
+M192,Caldas,Anserma,Urbana,290,54,64,68,38,32,6,7,269,17:30,No,,1
+M193,Caldas,Supía,Rural,260,48,56,60,32,28,5,6,235,18:00,No,,1
+M194,Caldas,Salamina,Rural,250,46,54,58,30,26,5,5,224,18:00,No,,1
+M195,Caldas,Aguadas,Rural,270,50,58,62,34,29,6,6,245,18:00,No,,1
+M196,Risaralda,Belén de Umbría,Rural,260,48,54,60,32,28,5,6,233,18:00,No,,1
+M197,Risaralda,Marsella,Rural,250,46,52,58,30,26,5,5,222,18:00,No,,1
+M198,Risaralda,Apía,Rural,240,44,50,55,28,25,5,5,212,18:00,No,,1
+M199,Risaralda,Pueblo Rico,Rural,270,50,56,62,34,29,6,6,243,18:00,No,,1
+M200,Risaralda,Quinchía,Rural,260,48,54,60,32,28,5,6,233,18:00,No,,1
